@@ -1,0 +1,13 @@
+
+Hello everyone!
+
+You can contact us at:
+burhan@gmail.com
+careers@codealpha.com
+info@example.org
+techno3@yahoo.com
+
+For more information, visit our website.
+
+Another contact: developer@gmail.com
+Invalid email: burhan@gmail
